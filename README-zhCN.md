@@ -9,6 +9,6 @@
 <br> </br>
 ![Image](https://github.com/sleepyjoeschool/PasswordManager/blob/main/img/Capture2.PNG?raw=true "Image")
 <br> </br>
-步骤 4 - 双击打开此代码并检查它是否正常工作。
+步骤 4 - 使用IDLE而不是双击打开此代码并检查它是否正常工作。
 <br> </br>
 步骤 5 - 在安全的地方保护和备份这些文件。
